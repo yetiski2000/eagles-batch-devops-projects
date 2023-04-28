@@ -33,6 +33,10 @@ The following are instructions for installing Apache Maven and Java 8 on an Amaz
 ### Project Preparation
 7. Create the `.m2` directory in the home directory of your current user
     `mkdir ~/.m2`
+    
+    sudo yum install git -y
+    
+    sudo yum install tree -y
 
 8. Create the Settings file inside of the `~/.m2` directory
     `cd ~/.m2/`
